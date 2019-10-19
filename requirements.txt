@@ -1,0 +1,3 @@
+python-crontab
+beautifulsoup4
+pymysql
